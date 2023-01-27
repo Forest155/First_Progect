@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 Project-1. Ноутбук-шаблон.ipynb
+=======
+>>>>>>> 7b35ea0153f7cac9bbbe06b4d98392111bb692af
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,4 +130,8 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
+<<<<<<< HEAD
 .pyre/
+=======
+.pyre/
+>>>>>>> 7b35ea0153f7cac9bbbe06b4d98392111bb692af
